@@ -4,7 +4,7 @@
 # In[1]:
 
 
-pip install python-telegram-bot==13.15 googletrans==4.0.0-rc1
+
 
 
 # In[3]:
