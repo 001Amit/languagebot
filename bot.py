@@ -7,7 +7,7 @@ from googletrans import Translator
 translator = Translator()
 
 # ✨ Replace this with your actual ID
-ALLOWED_USER_ID = 1769111837
+ALLOWED_USER_ID = 7631271486
 
 def contains_chinese(text):
     return bool(re.search(r'[\u4e00-\u9fff]', text))
